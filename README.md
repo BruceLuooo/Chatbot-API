@@ -5,6 +5,8 @@
 - [About](#about)
 - [How It Works](#how-it-works)
 - [Issues and How They Were Resolved](#issues-and-how-they-were-resolved)
+- [Setup Guide](#setup-guide)
+- [Prerequisites](#prerequisites)
 
 ---
 
