@@ -1,0 +1,22 @@
+# [Core]
+Django==4.2.8
+django-cors-headers
+django-extensions
+requests
+
+# [REST]
+djangorestframework
+Markdown
+django-filter
+
+# [Access GCP APIs (Vertex AI)]
+google-cloud-aiplatform
+
+# [Auth & Security]
+django-rest-knox
+
+# [Database]
+psycopg[binary]
+
+# [Search]
+typesense
