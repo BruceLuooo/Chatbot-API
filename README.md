@@ -12,7 +12,7 @@
 
 ## About
 
-This application is a backend server that provides a powerful API for generating responses to user requests using Google's advanced language model, Gemini. The application utilizes a search engine called Typesense to find videos within its database. By intelligently interpreting user queries, the server formats requests into usable JSON objects, allowing for seamless interaction. Beyond video searches, the application can also handle general inquiries, making it versatile and user-friendly.
+This application is a backend server that provides a powerful API for generating well-structured responses to user requests using Google's advanced language model, Gemini. By intelligently interpreting user queries, the API can format requests into a usable JSON object, which then allows the application to utilize a search engine called Typesense to find videos within its database. Beyond video searches, the application can also handle general inquiries, making it versatile and user-friendly.
 
 
 ## How It Works
